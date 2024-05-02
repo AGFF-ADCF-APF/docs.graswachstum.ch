@@ -1,5 +1,5 @@
 ---
-title: 'Graswachstum: Grundlagen'
+title: Grundlagen
 taxonomy:
     category: docs
 child_type: docs
