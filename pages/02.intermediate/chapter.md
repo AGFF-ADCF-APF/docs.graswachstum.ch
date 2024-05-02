@@ -1,5 +1,5 @@
 ---
-title: AGFF-Grasmessnetzwerk
+title: Fortgeschrittene
 taxonomy:
     category: docs
 child_type: docs
@@ -7,6 +7,6 @@ child_type: docs
 
 ### Kapitel 2
 
-# Das AGFF-Grasmessnetzwerk
+# Fortgeschrittene
 
 Delve deeper into more **complex** topics
