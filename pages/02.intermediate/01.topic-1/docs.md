@@ -12,3 +12,4 @@ process:
 - [Broschüre KAK-Analyse (Labor Ins)](https://www.laborins.ch/wp-content/uploads/2021/01/Kationenaustauschkapazitaet_Broschuere.pdf)
 - [Artporträt Borstenhirse (eAGFF)](https://www.eagff.ch/wiesenpflanzen-kennen/graeser/artspezifische-merkmale/borstenhirse-graugruene)
 - [AGFF Merkblatt 14: Luzerne, "Königin der Futterpflanzen"](https://www.eagff.ch/files/images/bilder/Wiesenpflanzen_kennen/Kleearten/Einzelarten_PDFs/agff-merkblatt14_2022_A5_RZ_Web.pdf)
+- [Stierenempfehlungen für maximale Leistung pro Körpergewicht](http://swiss-cow-index.ch/?page_id=54)
