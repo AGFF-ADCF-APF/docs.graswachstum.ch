@@ -1,12 +1,12 @@
 ---
-title: Basics
+title: 'Graswachstum: Grundlagen'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+### Kapitel 1
 
-# Basics
+# Grundlagen
 
 Discover the **basic** principles
