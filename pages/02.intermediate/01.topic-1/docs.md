@@ -9,4 +9,4 @@ process:
 ---
 
 Linksammlung:
-- [Broschüre KAK-Analyse](Labor Ins)(https://www.laborins.ch/wp-content/uploads/2021/01/Kationenaustauschkapazitaet_Broschuere.pdf)
+- [Broschüre KAK-Analyse (Labor Ins)](https://www.laborins.ch/wp-content/uploads/2021/01/Kationenaustauschkapazitaet_Broschuere.pdf)
