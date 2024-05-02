@@ -1,12 +1,12 @@
 ---
-title: Intermediate
+title: AGFF-Grasmessnetzwerk
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 2
+### Kapitel 2
 
-# Intermediate
+# Das AGFF-Grasmessnetzwerk
 
 Delve deeper into more **complex** topics
