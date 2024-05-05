@@ -20,7 +20,7 @@ restaurant:
 facebookenable: true
 ---
 
-### Chapter 3
+### Kapitel 3
 
 # Profi
 
