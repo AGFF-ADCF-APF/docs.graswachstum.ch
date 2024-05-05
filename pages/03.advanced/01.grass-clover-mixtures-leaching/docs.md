@@ -22,7 +22,7 @@ facebookenable: true
 
 Die Vorteile von Gras-Klee-Mischungen im Kunstfutterbau sind vielfältig. Nun zeigt eine Studie von Agroscope, dass sie den verfügbaren Stickstoff so effizient nutzen, dass sie auch das Risiko einer Nitratauswaschung tief halten.
 
-Quelle: https://www.sciencedirect.com/science/article/pii/S0167880923004358?via%3Dihub
+Quelle: [www.sciencedirect.com (Englisch)](https://www.sciencedirect.com/science/article/pii/S0167880923004358?via%3Dihub)
 
 ## Fazit
 * Im Kunstfutterbau sind Gras-Klee-Mischungen bei moderater Stickstoffdüngung deutlich produktiver als reine Grasbestände, ohne das Risiko für Nitratauswaschung zu erhöhen.
